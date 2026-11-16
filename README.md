@@ -2,7 +2,7 @@
 
 I build software for businesses and defend it. Developer at TBS Inform, team lead at [Vanking](https://vanking.uz), second-year Cybersecurity student at IT Park University in Tashkent.
 
-<a href="https://dmitriy.cv"><img src="assets/link-site.svg" height="40" alt="dmitriy.cv — results with evidence, case studies"></a>&nbsp;<a href="https://t.me/asintiko"><img src="assets/link-telegram.svg" height="40" alt="Telegram"></a>&nbsp;<a href="https://dmitriy.cv/cv/"><img src="assets/link-cv.svg" height="40" alt="CV"></a>
+<a href="https://dmitriy.cv"><img src="assets/link-site.svg" height="40" alt="dmitriy.cv — results with evidence, case studies"></a>&nbsp;<a href="https://t.me/asintiko"><img src="assets/link-telegram.svg" height="40" alt="Telegram"></a>&nbsp;<a href="https://ctftime.org/team/456357"><img src="assets/link-ctftime.svg" height="40" alt="CTFtime — team vanking"></a>&nbsp;<a href="https://dmitriy.cv/cv/"><img src="assets/link-cv.svg" height="40" alt="CV"></a>
 
 Results with evidence, case studies and CV are on [dmitriy.cv](https://dmitriy.cv) · [по-русски](https://dmitriy.cv/ru/)
 
