@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 368" width="1200" height="368" role="img" aria-labelledby="t d">
+<title id="t">asintiko — Dmitriy Kvasnikov</title>
+<desc id="d">Software developer and cybersecurity. First place at School 21 CTF and at the CyberSecurity Uzum Hackathon, 74th of 1000 solo at the CTF Cup of Russia. Tashkent, Uzbekistan.</desc>
+<style>
+
+  .mono { font: 500 19px ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; letter-spacing: 0.08em; fill: #8f8a85; }
+  .mono b { fill: #f2ede6; }
+  .hi { fill: #f2ede6; }
+  .px { fill: #f2ede6; opacity: 0.14; animation: reveal 0.5s linear both, glint 10.0s linear infinite; }
+  .lock { fill: none; stroke: #dc0812; stroke-width: 2; stroke-dasharray: 26; stroke-dashoffset: 26; animation: draw 0.5s ease-out 2.735s forwards; }
+  .red { fill: #dc0812; opacity: 0; animation: redin 0.2s steps(1) 2.485s forwards, pulse 2.4s ease-in-out 3.085s infinite; }
+  .trail { fill: #dc0812; opacity: 0; animation: trailin 0.2s steps(1) forwards; }
+  @keyframes reveal { 0% { opacity: 0.14; fill: #f2ede6; } 1% { opacity: 1; fill: #dc0812; } 55% { opacity: 1; fill: #dc0812; } 100% { opacity: 1; fill: #f2ede6; } }
+  @keyframes glint { 0%, 3.2%, 100% { fill: #f2ede6; } 0.4% { fill: #dc0812; } }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  @keyframes redin { to { opacity: 1; } }
+  @keyframes trailin { to { opacity: var(--o); } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.45; } }
+  @media (prefers-reduced-motion: reduce) {
+    .px, .red { animation: none; opacity: 1; }
+    .trail { animation: none; opacity: var(--o); }
+    .lock { animation: none; stroke-dashoffset: 0; }
+    .scan { display: none; }
+  }
+
+</style>
+<defs>
+<pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse" x="60" y="18"><rect x="7.0" y="7.0" width="2" height="2" fill="#f2ede6" opacity="0.13"/></pattern>
+<linearGradient id="wake" x1="0" x2="1"><stop offset="0" stop-color="#dc0812" stop-opacity="0"/><stop offset="1" stop-color="#dc0812" stop-opacity="0.16"/></linearGradient>
+</defs>
+<rect width="1200" height="368" fill="#0b0a0a"/>
+<rect width="1200" height="368" fill="url(#grid)"/>
+<rect x="0" y="0" width="1200" height="2" fill="#dc0812"/>
+<text class="mono" x="60" y="62" xml:space="preserve"><tspan class="hi">DMITRIY KVASNIKOV</tspan>  /  SOFTWARE DEVELOPER · CYBERSECURITY</text>
+<text class="mono" x="1140" y="62" text-anchor="end">TASHKENT, UZ</text>
+<rect class="px" x="80" y="118" width="16" height="16" style="animation-delay:0.462s,10.462s"/>
+<rect class="px" x="100" y="118" width="16" height="16" style="animation-delay:0.505s,10.505s"/>
+<rect class="px" x="120" y="118" width="16" height="16" style="animation-delay:0.547s,10.547s"/>
+<rect class="px" x="60" y="138" width="16" height="16" style="animation-delay:0.42s,10.420s"/>
+<rect class="px" x="140" y="138" width="16" height="16" style="animation-delay:0.59s,10.590s"/>
+<rect class="px" x="60" y="158" width="16" height="16" style="animation-delay:0.42s,10.420s"/>
+<rect class="px" x="140" y="158" width="16" height="16" style="animation-delay:0.59s,10.590s"/>
+<rect class="px" x="60" y="178" width="16" height="16" style="animation-delay:0.42s,10.420s"/>
+<rect class="px" x="80" y="178" width="16" height="16" style="animation-delay:0.462s,10.462s"/>
+<rect class="px" x="100" y="178" width="16" height="16" style="animation-delay:0.505s,10.505s"/>
+<rect class="px" x="120" y="178" width="16" height="16" style="animation-delay:0.547s,10.547s"/>
+<rect class="px" x="140" y="178" width="16" height="16" style="animation-delay:0.59s,10.590s"/>
+<rect class="px" x="60" y="198" width="16" height="16" style="animation-delay:0.42s,10.420s"/>
+<rect class="px" x="140" y="198" width="16" height="16" style="animation-delay:0.59s,10.590s"/>
+<rect class="px" x="60" y="218" width="16" height="16" style="animation-delay:0.42s,10.420s"/>
+<rect class="px" x="140" y="218" width="16" height="16" style="animation-delay:0.59s,10.590s"/>
+<rect class="px" x="60" y="238" width="16" height="16" style="animation-delay:0.42s,10.420s"/>
+<rect class="px" x="140" y="238" width="16" height="16" style="animation-delay:0.59s,10.590s"/>
+<rect class="px" x="200" y="118" width="16" height="16" style="animation-delay:0.717s,10.717s"/>
+<rect class="px" x="220" y="118" width="16" height="16" style="animation-delay:0.76s,10.760s"/>
+<rect class="px" x="240" y="118" width="16" height="16" style="animation-delay:0.802s,10.802s"/>
+<rect class="px" x="260" y="118" width="16" height="16" style="animation-delay:0.845s,10.845s"/>
+<rect class="px" x="180" y="138" width="16" height="16" style="animation-delay:0.675s,10.675s"/>
+<rect class="px" x="180" y="158" width="16" height="16" style="animation-delay:0.675s,10.675s"/>
+<rect class="px" x="200" y="178" width="16" height="16" style="animation-delay:0.717s,10.717s"/>
+<rect class="px" x="220" y="178" width="16" height="16" style="animation-delay:0.76s,10.760s"/>
+<rect class="px" x="240" y="178" width="16" height="16" style="animation-delay:0.802s,10.802s"/>
+<rect class="px" x="260" y="198" width="16" height="16" style="animation-delay:0.845s,10.845s"/>
+<rect class="px" x="260" y="218" width="16" height="16" style="animation-delay:0.845s,10.845s"/>
+<rect class="px" x="180" y="238" width="16" height="16" style="animation-delay:0.675s,10.675s"/>
+<rect class="px" x="200" y="238" width="16" height="16" style="animation-delay:0.717s,10.717s"/>
+<rect class="px" x="220" y="238" width="16" height="16" style="animation-delay:0.76s,10.760s"/>
+<rect class="px" x="240" y="238" width="16" height="16" style="animation-delay:0.802s,10.802s"/>
+<rect class="px" x="300" y="118" width="16" height="16" style="animation-delay:0.93s,10.930s"/>
+<rect class="px" x="320" y="118" width="16" height="16" style="animation-delay:0.972s,10.972s"/>
+<rect class="px" x="340" y="118" width="16" height="16" style="animation-delay:1.015s,11.015s"/>
+<rect class="px" x="360" y="118" width="16" height="16" style="animation-delay:1.057s,11.057s"/>
+<rect class="px" x="380" y="118" width="16" height="16" style="animation-delay:1.1s,11.100s"/>
+<rect class="px" x="340" y="138" width="16" height="16" style="animation-delay:1.015s,11.015s"/>
+<rect class="px" x="340" y="158" width="16" height="16" style="animation-delay:1.015s,11.015s"/>
+<rect class="px" x="340" y="178" width="16" height="16" style="animation-delay:1.015s,11.015s"/>
+<rect class="px" x="340" y="198" width="16" height="16" style="animation-delay:1.015s,11.015s"/>
+<rect class="px" x="340" y="218" width="16" height="16" style="animation-delay:1.015s,11.015s"/>
+<rect class="px" x="300" y="238" width="16" height="16" style="animation-delay:0.93s,10.930s"/>
+<rect class="px" x="320" y="238" width="16" height="16" style="animation-delay:0.972s,10.972s"/>
+<rect class="px" x="340" y="238" width="16" height="16" style="animation-delay:1.015s,11.015s"/>
+<rect class="px" x="360" y="238" width="16" height="16" style="animation-delay:1.057s,11.057s"/>
+<rect class="px" x="380" y="238" width="16" height="16" style="animation-delay:1.1s,11.100s"/>
+<rect class="px" x="420" y="118" width="16" height="16" style="animation-delay:1.185s,11.185s"/>
+<rect class="px" x="500" y="118" width="16" height="16" style="animation-delay:1.355s,11.355s"/>
+<rect class="px" x="420" y="138" width="16" height="16" style="animation-delay:1.185s,11.185s"/>
+<rect class="px" x="440" y="138" width="16" height="16" style="animation-delay:1.227s,11.227s"/>
+<rect class="px" x="500" y="138" width="16" height="16" style="animation-delay:1.355s,11.355s"/>
+<rect class="px" x="420" y="158" width="16" height="16" style="animation-delay:1.185s,11.185s"/>
+<rect class="px" x="460" y="158" width="16" height="16" style="animation-delay:1.27s,11.270s"/>
+<rect class="px" x="500" y="158" width="16" height="16" style="animation-delay:1.355s,11.355s"/>
+<rect class="px" x="420" y="178" width="16" height="16" style="animation-delay:1.185s,11.185s"/>
+<rect class="px" x="460" y="178" width="16" height="16" style="animation-delay:1.27s,11.270s"/>
+<rect class="px" x="500" y="178" width="16" height="16" style="animation-delay:1.355s,11.355s"/>
+<rect class="px" x="420" y="198" width="16" height="16" style="animation-delay:1.185s,11.185s"/>
+<rect class="px" x="480" y="198" width="16" height="16" style="animation-delay:1.312s,11.312s"/>
+<rect class="px" x="500" y="198" width="16" height="16" style="animation-delay:1.355s,11.355s"/>
+<rect class="px" x="420" y="218" width="16" height="16" style="animation-delay:1.185s,11.185s"/>
+<rect class="px" x="500" y="218" width="16" height="16" style="animation-delay:1.355s,11.355s"/>
+<rect class="px" x="420" y="238" width="16" height="16" style="animation-delay:1.185s,11.185s"/>
+<rect class="px" x="500" y="238" width="16" height="16" style="animation-delay:1.355s,11.355s"/>
+<rect class="px" x="540" y="118" width="16" height="16" style="animation-delay:1.44s,11.440s"/>
+<rect class="px" x="560" y="118" width="16" height="16" style="animation-delay:1.482s,11.482s"/>
+<rect class="px" x="580" y="118" width="16" height="16" style="animation-delay:1.525s,11.525s"/>
+<rect class="px" x="600" y="118" width="16" height="16" style="animation-delay:1.567s,11.567s"/>
+<rect class="px" x="620" y="118" width="16" height="16" style="animation-delay:1.609s,11.609s"/>
+<rect class="px" x="580" y="138" width="16" height="16" style="animation-delay:1.525s,11.525s"/>
+<rect class="px" x="580" y="158" width="16" height="16" style="animation-delay:1.525s,11.525s"/>
+<rect class="px" x="580" y="178" width="16" height="16" style="animation-delay:1.525s,11.525s"/>
+<rect class="px" x="580" y="198" width="16" height="16" style="animation-delay:1.525s,11.525s"/>
+<rect class="px" x="580" y="218" width="16" height="16" style="animation-delay:1.525s,11.525s"/>
+<rect class="px" x="580" y="238" width="16" height="16" style="animation-delay:1.525s,11.525s"/>
+<rect class="px" x="660" y="118" width="16" height="16" style="animation-delay:1.694s,11.694s"/>
+<rect class="px" x="680" y="118" width="16" height="16" style="animation-delay:1.737s,11.737s"/>
+<rect class="px" x="700" y="118" width="16" height="16" style="animation-delay:1.779s,11.779s"/>
+<rect class="px" x="720" y="118" width="16" height="16" style="animation-delay:1.822s,11.822s"/>
+<rect class="px" x="740" y="118" width="16" height="16" style="animation-delay:1.864s,11.864s"/>
+<rect class="px" x="700" y="138" width="16" height="16" style="animation-delay:1.779s,11.779s"/>
+<rect class="px" x="700" y="158" width="16" height="16" style="animation-delay:1.779s,11.779s"/>
+<rect class="px" x="700" y="178" width="16" height="16" style="animation-delay:1.779s,11.779s"/>
+<rect class="px" x="700" y="198" width="16" height="16" style="animation-delay:1.779s,11.779s"/>
+<rect class="px" x="700" y="218" width="16" height="16" style="animation-delay:1.779s,11.779s"/>
+<rect class="px" x="660" y="238" width="16" height="16" style="animation-delay:1.694s,11.694s"/>
+<rect class="px" x="680" y="238" width="16" height="16" style="animation-delay:1.737s,11.737s"/>
+<rect class="px" x="700" y="238" width="16" height="16" style="animation-delay:1.779s,11.779s"/>
+<rect class="px" x="720" y="238" width="16" height="16" style="animation-delay:1.822s,11.822s"/>
+<rect class="px" x="740" y="238" width="16" height="16" style="animation-delay:1.864s,11.864s"/>
+<rect class="px" x="780" y="118" width="16" height="16" style="animation-delay:1.949s,11.949s"/>
+<rect class="px" x="860" y="118" width="16" height="16" style="animation-delay:2.119s,12.119s"/>
+<rect class="px" x="780" y="138" width="16" height="16" style="animation-delay:1.949s,11.949s"/>
+<rect class="px" x="840" y="138" width="16" height="16" style="animation-delay:2.077s,12.077s"/>
+<rect class="px" x="780" y="158" width="16" height="16" style="animation-delay:1.949s,11.949s"/>
+<rect class="px" x="820" y="158" width="16" height="16" style="animation-delay:2.034s,12.034s"/>
+<rect class="px" x="780" y="178" width="16" height="16" style="animation-delay:1.949s,11.949s"/>
+<rect class="px" x="800" y="178" width="16" height="16" style="animation-delay:1.992s,11.992s"/>
+<rect class="px" x="780" y="198" width="16" height="16" style="animation-delay:1.949s,11.949s"/>
+<rect class="px" x="820" y="198" width="16" height="16" style="animation-delay:2.034s,12.034s"/>
+<rect class="px" x="780" y="218" width="16" height="16" style="animation-delay:1.949s,11.949s"/>
+<rect class="px" x="840" y="218" width="16" height="16" style="animation-delay:2.077s,12.077s"/>
+<rect class="px" x="780" y="238" width="16" height="16" style="animation-delay:1.949s,11.949s"/>
+<rect class="px" x="860" y="238" width="16" height="16" style="animation-delay:2.119s,12.119s"/>
+<rect class="px" x="920" y="118" width="16" height="16" style="animation-delay:2.247s,12.247s"/>
+<rect class="px" x="940" y="118" width="16" height="16" style="animation-delay:2.289s,12.289s"/>
+<rect class="px" x="960" y="118" width="16" height="16" style="animation-delay:2.332s,12.332s"/>
+<rect class="px" x="900" y="138" width="16" height="16" style="animation-delay:2.204s,12.204s"/>
+<rect class="px" x="980" y="138" width="16" height="16" style="animation-delay:2.374s,12.374s"/>
+<rect class="px" x="900" y="158" width="16" height="16" style="animation-delay:2.204s,12.204s"/>
+<rect class="px" x="980" y="158" width="16" height="16" style="animation-delay:2.374s,12.374s"/>
+<rect class="px" x="900" y="178" width="16" height="16" style="animation-delay:2.204s,12.204s"/>
+<rect class="px" x="980" y="178" width="16" height="16" style="animation-delay:2.374s,12.374s"/>
+<rect class="px" x="900" y="198" width="16" height="16" style="animation-delay:2.204s,12.204s"/>
+<rect class="px" x="980" y="198" width="16" height="16" style="animation-delay:2.374s,12.374s"/>
+<rect class="px" x="900" y="218" width="16" height="16" style="animation-delay:2.204s,12.204s"/>
+<rect class="px" x="980" y="218" width="16" height="16" style="animation-delay:2.374s,12.374s"/>
+<rect class="px" x="920" y="238" width="16" height="16" style="animation-delay:2.247s,12.247s"/>
+<rect class="px" x="940" y="238" width="16" height="16" style="animation-delay:2.289s,12.289s"/>
+<rect class="px" x="960" y="238" width="16" height="16" style="animation-delay:2.332s,12.332s"/>
+<rect class="trail" x="1020" y="98" width="10" height="10" style="--o:0.55;animation-delay:2.442s"/>
+<rect class="trail" x="1004" y="101" width="6" height="6" style="--o:0.3;animation-delay:2.408s"/>
+<rect class="red" x="1040" y="98" width="16" height="16"/>
+<path class="lock" d="M1031 98V89H1040"/>
+<path class="lock" d="M1056 89H1065V98"/>
+<path class="lock" d="M1065 114V123H1056"/>
+<path class="lock" d="M1040 123H1031V114"/>
+<rect x="60" y="282" width="1080" height="1" fill="#f2ede6" opacity="0.18"/>
+<text class="mono" x="60" y="316" text-anchor="start" xml:space="preserve"><tspan fill="#dc0812">1ST</tspan>  <tspan class="hi">SCHOOL 21 CTF</tspan></text>
+<text class="mono" x="490" y="316" text-anchor="middle" xml:space="preserve"><tspan fill="#dc0812">1ST</tspan>  <tspan class="hi">UZUM HACKATHON</tspan></text>
+<text class="mono" x="1140" y="316" text-anchor="end" xml:space="preserve"><tspan fill="#dc0812">74 / 1000</tspan>  <tspan class="hi">CTF CUP OF RUSSIA · SOLO</tspan></text>
+<g class="scan" transform="translate(-12 0)" opacity="0"><rect x="-120" y="0" width="120" height="368" fill="url(#wake)"/><rect x="0" y="0" width="2" height="368" fill="#dc0812"/><animateTransform attributeName="transform" type="translate" values="-12 0; 1212 0; 1212 0" keyTimes="0; 0.260; 1" begin="0.25s" dur="10.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1; 1; 0; 0" keyTimes="0; 0.260; 0.261; 1" begin="0.25s" dur="10.0s" repeatCount="indefinite"/></g>
+</svg>
