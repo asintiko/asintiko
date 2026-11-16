@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 368" width="1200" height="368" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 312" width="1200" height="312" role="img" aria-labelledby="t d">
 <title id="t">asintiko — Dmitriy Kvasnikov</title>
-<desc id="d">Software developer and cybersecurity. First place at School 21 CTF and at the CyberSecurity Uzum Hackathon, 74th of 1000 solo at the CTF Cup of Russia. Tashkent, Uzbekistan.</desc>
+<desc id="d">Software developer and cybersecurity. Tashkent, Uzbekistan.</desc>
 <style>
 
   .mono { font: 500 19px ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; letter-spacing: 0.08em; fill: #8f8a85; }
@@ -28,8 +28,8 @@
 <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse" x="60" y="18"><rect x="7.0" y="7.0" width="2" height="2" fill="#f2ede6" opacity="0.13"/></pattern>
 <linearGradient id="wake" x1="0" x2="1"><stop offset="0" stop-color="#dc0812" stop-opacity="0"/><stop offset="1" stop-color="#dc0812" stop-opacity="0.16"/></linearGradient>
 </defs>
-<rect width="1200" height="368" fill="#0b0a0a"/>
-<rect width="1200" height="368" fill="url(#grid)"/>
+<rect width="1200" height="312" fill="#0b0a0a"/>
+<rect width="1200" height="312" fill="url(#grid)"/>
 <rect x="0" y="0" width="1200" height="2" fill="#dc0812"/>
 <text class="mono" x="60" y="62" xml:space="preserve"><tspan class="hi">DMITRIY KVASNIKOV</tspan>  /  SOFTWARE DEVELOPER · CYBERSECURITY</text>
 <text class="mono" x="1140" y="62" text-anchor="end">TASHKENT, UZ</text>
@@ -162,9 +162,5 @@
 <path class="lock" d="M1056 89H1065V98"/>
 <path class="lock" d="M1065 114V123H1056"/>
 <path class="lock" d="M1040 123H1031V114"/>
-<rect x="60" y="282" width="1080" height="1" fill="#f2ede6" opacity="0.18"/>
-<text class="mono" x="60" y="316" text-anchor="start" xml:space="preserve"><tspan fill="#dc0812">1ST</tspan>  <tspan class="hi">SCHOOL 21 CTF</tspan></text>
-<text class="mono" x="490" y="316" text-anchor="middle" xml:space="preserve"><tspan fill="#dc0812">1ST</tspan>  <tspan class="hi">UZUM HACKATHON</tspan></text>
-<text class="mono" x="1140" y="316" text-anchor="end" xml:space="preserve"><tspan fill="#dc0812">74 / 1000</tspan>  <tspan class="hi">CTF CUP OF RUSSIA · SOLO</tspan></text>
-<g class="scan" transform="translate(-12 0)" opacity="0"><rect x="-120" y="0" width="120" height="368" fill="url(#wake)"/><rect x="0" y="0" width="2" height="368" fill="#dc0812"/><animateTransform attributeName="transform" type="translate" values="-12 0; 1212 0; 1212 0" keyTimes="0; 0.260; 1" begin="0.25s" dur="10.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1; 1; 0; 0" keyTimes="0; 0.260; 0.261; 1" begin="0.25s" dur="10.0s" repeatCount="indefinite"/></g>
+<g class="scan" transform="translate(-12 0)" opacity="0"><rect x="-120" y="0" width="120" height="312" fill="url(#wake)"/><rect x="0" y="0" width="2" height="312" fill="#dc0812"/><animateTransform attributeName="transform" type="translate" values="-12 0; 1212 0; 1212 0" keyTimes="0; 0.260; 1" begin="0.25s" dur="10.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1; 1; 0; 0" keyTimes="0; 0.260; 0.261; 1" begin="0.25s" dur="10.0s" repeatCount="indefinite"/></g>
 </svg>

@@ -1,8 +1,10 @@
-<a href="https://dmitriy.cv"><img src="assets/header.svg" width="100%" alt="asintiko — Dmitriy Kvasnikov, software developer and cybersecurity, Tashkent. 1st place at School 21 CTF, 1st place at the CyberSecurity Uzum Hackathon, 74th of 1000 solo at the CTF Cup of Russia."></a>
+<a href="https://dmitriy.cv"><img src="assets/header.svg" width="100%" alt="asintiko — Dmitriy Kvasnikov, software developer and cybersecurity, Tashkent"></a>
 
 I build software for businesses and defend it. Developer at TBS Inform, team lead at [Vanking](https://vanking.uz), second-year Cybersecurity student at IT Park University in Tashkent.
 
-**[dmitriy.cv](https://dmitriy.cv)** — results with evidence, case studies and CV &nbsp;·&nbsp; [по-русски](https://dmitriy.cv/ru/) &nbsp;·&nbsp; [Telegram](https://t.me/asintiko)
+<a href="https://dmitriy.cv"><img src="assets/link-site.svg" height="40" alt="dmitriy.cv — results with evidence, case studies"></a>&nbsp;<a href="https://t.me/asintiko"><img src="assets/link-telegram.svg" height="40" alt="Telegram"></a>&nbsp;<a href="https://dmitriy.cv/cv/"><img src="assets/link-cv.svg" height="40" alt="CV"></a>
+
+Results with evidence, case studies and CV are on [dmitriy.cv](https://dmitriy.cv) · [по-русски](https://dmitriy.cv/ru/)
 
 ### Results
 
@@ -18,4 +20,4 @@ I build software for businesses and defend it. Developer at TBS Inform, team lea
 
 ### Stack
 
-Python · Go · TypeScript · C# &nbsp;/&nbsp; Flask · React · Node.js · .NET 8 &nbsp;/&nbsp; PostgreSQL · SQLite &nbsp;/&nbsp; Docker · Linux
+<img src="assets/stack.svg" width="100%" alt="Stack: Python, Go, Rust, TypeScript, JavaScript, C#, .NET, Flask, React, Node.js, PostgreSQL, SQLite, Docker, Linux">

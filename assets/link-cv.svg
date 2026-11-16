@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 98 52" width="98" height="52" role="img" aria-label="CV">
+<rect x="1" y="1" width="96" height="50" fill="#0b0a0a" stroke="#f2ede6" stroke-width="2"/>
+<path fill="none" stroke="#f2ede6" stroke-width="2.2" stroke-linejoin="miter" d="M22 16h11l6 6v15H22z"/><path fill="none" stroke="#f2ede6" stroke-width="2.2" d="M26 27h9M26 32h9"/>
+<text x="54" y="32" fill="#f2ede6" style="font: 600 17px ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; letter-spacing: 0.1em">CV</text>
+</svg>
