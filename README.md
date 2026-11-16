@@ -1,4 +1,4 @@
-<a href="https://dmitriy.cv"><img src="assets/header.svg" width="100%" alt="asintiko — Dmitriy Kvasnikov, software developer and cybersecurity, Tashkent"></a>
+<a href="https://dmitriy.cv"><img src="assets/header.svg?v=2" width="100%" alt="asintiko — Dmitriy Kvasnikov, software developer and cybersecurity, Tashkent"></a>
 
 I build software for businesses and defend it. Developer at TBS Inform, team lead at [Vanking](https://vanking.uz), second-year Cybersecurity student at IT Park University in Tashkent.
 
