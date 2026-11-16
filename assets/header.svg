@@ -20,13 +20,11 @@
     .px, .red { animation: none; opacity: 1; }
     .trail { animation: none; opacity: var(--o); }
     .lock { animation: none; stroke-dashoffset: 0; }
-    .scan { display: none; }
   }
 
 </style>
 <defs>
 <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse" x="60" y="18"><rect x="7.0" y="7.0" width="2" height="2" fill="#f2ede6" opacity="0.13"/></pattern>
-<linearGradient id="wake" x1="0" x2="1"><stop offset="0" stop-color="#dc0812" stop-opacity="0"/><stop offset="1" stop-color="#dc0812" stop-opacity="0.16"/></linearGradient>
 </defs>
 <rect width="1200" height="312" fill="#0b0a0a"/>
 <rect width="1200" height="312" fill="url(#grid)"/>
@@ -162,5 +160,4 @@
 <path class="lock" d="M1056 89H1065V98"/>
 <path class="lock" d="M1065 114V123H1056"/>
 <path class="lock" d="M1040 123H1031V114"/>
-<g class="scan" transform="translate(-12 0)" opacity="0"><rect x="-120" y="0" width="120" height="312" fill="url(#wake)"/><rect x="0" y="0" width="2" height="312" fill="#dc0812"/><animateTransform attributeName="transform" type="translate" values="-12 0; 1212 0; 1212 0" keyTimes="0; 0.260; 1" begin="0.25s" dur="10.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1; 1; 0; 0" keyTimes="0; 0.260; 0.261; 1" begin="0.25s" dur="10.0s" repeatCount="indefinite"/></g>
 </svg>
