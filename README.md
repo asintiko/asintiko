@@ -4,7 +4,7 @@ I build software for businesses and defend it. Developer at TBS Inform, team lea
 
 <a href="https://dmitriy.cv"><img src="assets/link-site.svg" height="40" alt="dmitriy.cv — results with evidence, case studies"></a>&nbsp;<a href="https://t.me/asintiko"><img src="assets/link-telegram.svg" height="40" alt="Telegram"></a>&nbsp;<a href="https://ctftime.org/team/456357"><img src="assets/link-ctftime.svg" height="40" alt="CTFtime — team vanking"></a>&nbsp;<a href="https://dmitriy.cv/cv/"><img src="assets/link-cv.svg" height="40" alt="CV"></a>
 
-Results with evidence, case studies and CV are on [dmitriy.cv](https://dmitriy.cv) · [по-русски](https://dmitriy.cv/ru/)
+Results with evidence, case studies and CV are on [dmitriy.cv](https://dmitriy.cv) · [по-русски](https://dmitriy.cv/ru/) · [help@dmitriy.cv](mailto:help@dmitriy.cv)
 
 ### Results
 
